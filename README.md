@@ -19,13 +19,13 @@ for login/register page, add "modern-skin-purple" and if you want background ima
 
 
 ```html
-<body class="hold-transition modern-skin-purple sidebar-mini">
+<body class="hold-transition login-page modern-skin-purple">
 	...All content of page
 </body>
 ```
 or
 ```html
-<body class="hold-transition modern-skin-purple with-bg sidebar-mini">
+<body class="hold-transition login-page modern-skin-purple with-bg">
 	...All content of page
 </body>
 ```
