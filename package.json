@@ -1,0 +1,29 @@
+{
+  "name": "modern-admin-lte",
+  "version": "1.0.0",
+  "description": "A modern skins for Admin-LTE admin template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenhyuwa/modern-admin-lte.git"
+  },
+  "keywords": [
+    "adminlte",
+    "admin-lte",
+    "admin",
+    "template",
+    "bootstrap"
+  ],
+  "author": "ken <wahyu.dhiraashandy8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenhyuwa/modern-admin-lte/issues"
+  },
+  "homepage": "https://github.com/kenhyuwa/modern-admin-lte#readme",
+  "devDependencies": {
+    "admin-lte-sass": "^2.3.2"
+  }
+}
