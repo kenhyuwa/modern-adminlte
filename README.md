@@ -89,3 +89,7 @@ or
 	...All content of page
 </body>
 ```
+
+# Thanks to
+Almsaeed Studio & team
+all
