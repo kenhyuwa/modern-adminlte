@@ -3,7 +3,7 @@
 # Modern Skins AdminLTE
 A modern skins for Admin-LTE admin template
 
-#Usage
+# Usage
 Add to head of style 
 ```html
 <link rel="stylesheet" href="dist/css/modern-AdminLTE.min.css">
@@ -32,7 +32,7 @@ or
 </body>
 ```
 
-#Skins available
+# Skins available
 ![Alt text](/../master/screenshot/modern-skin-purple.png?raw=true "Modern Skins AdminLTE")
 
 ```html
