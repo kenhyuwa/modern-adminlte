@@ -29,3 +29,25 @@ or
 	...All content of page
 </body>
 ```
+
+#Skins available
+```html
+<body class="hold-transition modern-skin-purple sidebar-mini">
+	...All content of page
+</body>
+<body class="hold-transition modern-skin-green sidebar-mini">
+	...All content of page
+</body>
+<body class="hold-transition modern-skin-messenger sidebar-mini">
+	...All content of page
+</body>
+<body class="hold-transition modern-skin-dark sidebar-mini">
+	...All content of page
+</body>
+<body class="hold-transition modern-skin-orange sidebar-mini">
+	...All content of page
+</body>
+<body class="hold-transition modern-skin-red sidebar-mini">
+	...All content of page
+</body>
+```
