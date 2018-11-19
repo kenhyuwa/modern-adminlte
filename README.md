@@ -1,3 +1,4 @@
+![Alt text](/../master/screenshot/modern-skin-purple.png?raw=true "Modern Skins AdminLTE")
 # Modern Skins AdminLTE
 A modern skins for Admin-LTE admin template
 
