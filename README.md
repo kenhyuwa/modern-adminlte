@@ -92,4 +92,3 @@ or
 
 # Thanks to
 Almsaeed Studio & team
-all
