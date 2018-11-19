@@ -1,4 +1,5 @@
 ![Alt text](/../master/screenshot/modern-skin-purple.png?raw=true "Modern Skins AdminLTE")
+
 # Modern Skins AdminLTE
 A modern skins for Admin-LTE admin template
 
@@ -32,23 +33,45 @@ or
 ```
 
 #Skins available
+![Alt text](/../master/screenshot/modern-skin-purple.png?raw=true "Modern Skins AdminLTE")
+
 ```html
 <body class="hold-transition modern-skin-purple sidebar-mini">
 	...All content of page
 </body>
+![Alt text](/../master/screenshot/modern-skin-green.png?raw=true "Modern Skins AdminLTE")
+
 <body class="hold-transition modern-skin-green sidebar-mini">
 	...All content of page
 </body>
+![Alt text](/../master/screenshot/modern-skin-messenger.png?raw=true "Modern Skins AdminLTE")
+
 <body class="hold-transition modern-skin-messenger sidebar-mini">
 	...All content of page
 </body>
+![Alt text](/../master/screenshot/modern-skin-dark.png?raw=true "Modern Skins AdminLTE")
+
 <body class="hold-transition modern-skin-dark sidebar-mini">
 	...All content of page
 </body>
+![Alt text](/../master/screenshot/modern-skin-orange.png?raw=true "Modern Skins AdminLTE")
+
 <body class="hold-transition modern-skin-orange sidebar-mini">
 	...All content of page
 </body>
+![Alt text](/../master/screenshot/modern-skin-red.png?raw=true "Modern Skins AdminLTE")
+
 <body class="hold-transition modern-skin-red sidebar-mini">
+	...All content of page
+</body>
+![Alt text](/../master/screenshot/login.png?raw=true "Modern Skins AdminLTE")
+
+<body class="hold-transition login-page modern-skin-purple">
+	...All content of page
+</body>
+![Alt text](/../master/screenshot/login-with-bg.png?raw=true "Modern Skins AdminLTE")
+
+<body class="hold-transition login-page modern-skin-purple with-bg">
 	...All content of page
 </body>
 ```
